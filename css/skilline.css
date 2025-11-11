@@ -1,6 +1,6 @@
 /*primary color*/
 .bg-cream {
-    background-color: #03a1ff;
+    background-color: #e3f4ff;
 }
 
 /*font*/
@@ -11,7 +11,7 @@ body {
     background-color: #1488D8;
 }
 .text-yellow-500 {
-    color: #F48C06;
+    color: #0691f4;
 }
 .floating { 
     animation-name: floating; 
